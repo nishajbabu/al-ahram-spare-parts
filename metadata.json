@@ -1,0 +1,8 @@
+{
+  "name": "Al Ahram Auto Spare Parts",
+  "description": "Precision dark-gallery automotive spare parts flagship and OEM/Heavy-Duty configurator for Al Ahram Auto Parts LLC (UAE), featuring vehicle fitment verification, interactive chassis inspection, bulk workshop tiers, and direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
